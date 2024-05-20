@@ -1,0 +1,13 @@
+.bg-footer
+{
+    background-color: #8b0000;
+}
+.justify
+{
+    text-align:left;
+}
+.flex
+{
+    display:flex;
+   flex-direction:column;
+}
